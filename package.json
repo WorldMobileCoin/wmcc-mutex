@@ -1,0 +1,24 @@
+{
+  "name": "wmcc-mutex",
+  "version": "1.0.0-beta.1",
+  "release": "25 January 2018",
+  "description": "WorldMobileCoin © WMCC Mutex Library",
+  "repository": "git://github.com/worldmobilecoin/wmcc-mutex.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-mutex",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-mutex/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc",
+    "wmcc-mutex",
+    "lock",
+    "mutex"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-mutex.js",
+  "license": "MIT"
+}
