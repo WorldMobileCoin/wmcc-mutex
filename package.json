@@ -1,6 +1,6 @@
 {
   "name": "wmcc-mutex",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "release": "25 January 2018",
   "description": "WorldMobileCoin © WMCC Mutex Library",
   "repository": "git://github.com/worldmobilecoin/wmcc-mutex.git",
